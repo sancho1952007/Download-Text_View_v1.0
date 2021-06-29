@@ -4,4 +4,4 @@
 This Editor event Detects the language you're coding in!
 ### This is the official repository for downloading Text View.
 
-### To View site: [https://sancho1952007.github.io/Text_View/](https://sancho1952007.github.io/Text_View/)
+### To View site: Click [Here](https://sancho1952007.github.io/Text_View/)!
