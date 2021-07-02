@@ -20,6 +20,8 @@ It Has a Quite Accurate Coding Language Detector Which Detects more than 10 Diff
 ## What Are The Drawbacks?
 - Only Works on Windows 10
 
+## Is Text View safe?
+It Is Completely Safe If You Download it From **[Here](https://sancho1952007.github.io/Text_View)**!
 
 ## How To View The Download Site?
 - View it **[Here](https://sancho1952007.github.io/Text_View)**.
