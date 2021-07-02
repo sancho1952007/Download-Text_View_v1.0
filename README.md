@@ -12,7 +12,7 @@ It Has a Quite Accurate Coding Language Detector Which Detects more than 10 Diff
 - It's Free To Use.
 - It Has A stylish 0.9 opacity (10%) Transparent GUI.
 - It's Best For Basic Use And Good For Quite Advanced Load.
-- Built Using <a href="https://python.org" target='_blank'>Python</a>/<a target='_blank' href="https://docs.python.org/3/library/tkinter.html">Tkinter</a>
+- Built Using [Python](https://python.org")/[Tkinter](https://docs.python.org/3/library/tkinter.html)
 - Smart Update Check System (only in version 2.0 and after...)
 - Smart Update Windows Toolwindow Style (only in version 2.0 and after...)
 
