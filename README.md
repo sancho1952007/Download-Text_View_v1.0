@@ -33,3 +33,5 @@ It Is Completely Safe If You Download it From **[Here](https://sancho1952007.git
 > Note: The Images Above Might Be Hangy or not Clear.
 
 # Thank You For Visiting This Site!
+
+# Please Hit That Star Button and **[Follow Me](https://github.com/sancho1952007/)**!
