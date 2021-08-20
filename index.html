@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
     <link rel="shortcut icon" href="https://raw.githubusercontent.com/sancho1952007/Text_View/main/images/icon.png"/>
@@ -86,3 +86,34 @@
     }
     </script>
 </html>
+-->
+
+<!DOCTYPE html>
+<body onload="show()"></body>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+    function show(){
+        swal('Sorry', 'Text View Has An Important Bug So,\nIt Will Be Shutdown For A While...', 'warning').then(() => {
+            document.querySelector('.swal-overlay').style.backgroundColor = 'lightgreen';
+            window.location.href=('https://github.com/sancho1952007/Text_View');
+        });
+    }
+</script>
+<style>
+    .swal-overlay{
+        transition: all .50s linear;
+    }
+    .swal-text, .swal-title{
+        font-family: montserrat;
+    }
+    .swal-overlay{
+        background-color: red;
+        opacity: 0.7;
+    }
+    .swal-modal{
+        border: 2px solid black;
+    }
+    .swal-button{
+        border-radius: 15px;
+    }
+</style>
